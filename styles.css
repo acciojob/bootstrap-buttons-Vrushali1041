@@ -3,7 +3,7 @@
     font-family: sans-serif;
     margin-bottom: 8px;
 }
-.btn-primary{
+#button-1{
     background-color: rgb(82, 4, 185);
     color: white;
     border: none;
@@ -11,13 +11,13 @@
     width: 80px;
     border-radius: 3px;
 }
-.btn-secondary{
+#button-2{
     background-color: white;
     height: 30px;
     width: 80px;
     border-radius: 3px;
 }
-.btn-success{
+#button-3{
     background-color: rgb(15, 163, 15);
     color: white;
     font-size: 15px;
@@ -26,7 +26,7 @@
     width: 90px;
     border-radius: 3px;
 }
-.btn-danger{
+#button-4{
     background-color: red;
     color: white;
     border: none;
@@ -34,27 +34,27 @@
     width: 70px;
     border-radius: 3px;
 }
-.btn-warning{
+#button-5{
     background-color: rgb(255, 255, 15);
     border: none;
     height: 34px;
     width: 1300px;
     border-radius: 3px;
 }
-.btn-info{
+#button-6{
     background-color:rgb(5, 160, 221);
     border: none;
     height: 30px;
     width: 80px;
     border-radius: 3px; 
 }
-.btn-light{
+#button-7{
     border: none;
     height: 30px;
     width: 80px;
     border-radius: 3px; 
 }
-.btn-link{
+#button-8{
     background-color: white;
     border: none;
     height: 30px;
