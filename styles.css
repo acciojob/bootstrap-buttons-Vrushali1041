@@ -1,2 +1,64 @@
-
+.header{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-bottom: 8px;
+}
+.btn-primary{
+    background-color: rgb(82, 4, 185);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 80px;
+    border-radius: 3px;
+}
+.btn-secondary{
+    background-color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 3px;
+}
+.btn-success{
+    background-color: rgb(15, 163, 15);
+    color: white;
+    font-size: 15px;
+    border: none;
+    height: 35px;
+    width: 90px;
+    border-radius: 3px;
+}
+.btn-danger{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 26px;
+    width: 70px;
+    border-radius: 3px;
+}
+.btn-warning{
+    background-color: rgb(255, 255, 15);
+    border: none;
+    height: 34px;
+    width: 1300px;
+    border-radius: 3px;
+}
+.btn-info{
+    background-color:rgb(5, 160, 221);
+    border: none;
+    height: 30px;
+    width: 80px;
+    border-radius: 3px; 
+}
+.btn-light{
+    border: none;
+    height: 30px;
+    width: 80px;
+    border-radius: 3px; 
+}
+.btn-link{
+    background-color: white;
+    border: none;
+    height: 30px;
+    width: 80px;
+    border-radius: 3px; 
+}
 /* Your CSS Code here. */
